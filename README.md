@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Modal using Framer Motion in React
+
+This project demonstrates how to create a modal using Framer Motion in React.
+
+## Credits
+
+This project was inspired by the tutorial from [Fireship](https://fireship.io/) on YouTube. You can find the tutorial [here](https://youtu.be/SuqU904ZHA4?si=FRU3Sm9JrrJ1OZ7L).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
